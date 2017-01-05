@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2017
+### Day 0: January 3, 2017
 
 **Today's Progress**: I Worked on Front End Project TwitchTV JSON API
 
@@ -8,7 +8,7 @@
 
 **Link to work:** Twitchtv JSON Api(https://codepen.io/jaquino/pen/NdWBJV)
 
-### Day 2: 
+### Day 1: 
 
 
 **Today's Progress**: 
@@ -18,7 +18,7 @@
 **Link(s) to work**:
 
 
-### Day 3:
+### Day 2:
 
 **Today's Progress**: 
 
